@@ -14,7 +14,7 @@ fn is_in_character_range(
 }
 
 fn main() {
-    let password_length: u64 = 100;
+    let password_length: u64 = 15;
     let lowercase = true;
     let uppercase = true;
     let numbers = true;
